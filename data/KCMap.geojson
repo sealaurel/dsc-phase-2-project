@@ -1,0 +1,233 @@
+{
+ "currentVersion": 10.71,
+ "serviceDescription": "This natural-color aerial imagery basemap is a mosaic of imagery at two resolutions which covers all of King County and portions of adjacent counties. In general, resolution is three inches per pixel for urbanized (western) King County and Southwestern Snohomish County and nine inches per pixel in rural (eastern) King County. The U.S. Highway 2 corridor in northeastern King County, and the Alpental area near Snoqualmie Pass are also represented by three-inch-resolution imagery. The imagery in the mosaic was captured by Pictometry International Corp. and licensed to King County for use by cities and other governmental entities only. The imagery was captured from mid-February 2015 through late June 2015.",
+ "mapName": "Layers",
+ "description": "King County aerial imagery basemap featuring imagery aquired in 2013.",
+ "copyrightText": "Pictometry International Corp.",
+ "supportsDynamicLayers": false,
+ "layers": [
+  {
+   "id": 0,
+   "name": "Map",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": null,
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Feature Layer",
+   "geometryType": "esriGeometryPoint"
+  }
+ ],
+ "tables": [],
+ "spatialReference": {
+  "wkid": 102100,
+  "latestWkid": 3857
+ },
+ "singleFusedMapCache": true,
+ "tileInfo": {
+  "rows": 256,
+  "cols": 256,
+  "dpi": 96,
+  "format": "MIXED",
+  "compressionQuality": 80,
+  "origin": {
+   "x": -2.0037508342787E7,
+   "y": 2.0037508342787E7
+  },
+  "spatialReference": {
+   "wkid": 102100,
+   "latestWkid": 3857
+  },
+  "lods": [
+   {
+    "level": 0,
+    "resolution": 156543.03392800014,
+    "scale": 5.91657527591555E8
+   },
+   {
+    "level": 1,
+    "resolution": 78271.51696399994,
+    "scale": 2.95828763795777E8
+   },
+   {
+    "level": 2,
+    "resolution": 39135.75848200009,
+    "scale": 1.47914381897889E8
+   },
+   {
+    "level": 3,
+    "resolution": 19567.87924099992,
+    "scale": 7.3957190948944E7
+   },
+   {
+    "level": 4,
+    "resolution": 9783.93962049996,
+    "scale": 3.6978595474472E7
+   },
+   {
+    "level": 5,
+    "resolution": 4891.96981024998,
+    "scale": 1.8489297737236E7
+   },
+   {
+    "level": 6,
+    "resolution": 2445.98490512499,
+    "scale": 9244648.868618
+   },
+   {
+    "level": 7,
+    "resolution": 1222.992452562495,
+    "scale": 4622324.434309
+   },
+   {
+    "level": 8,
+    "resolution": 611.4962262813797,
+    "scale": 2311162.217155
+   },
+   {
+    "level": 9,
+    "resolution": 305.74811314055756,
+    "scale": 1155581.108577
+   },
+   {
+    "level": 10,
+    "resolution": 152.87405657041106,
+    "scale": 577790.554289
+   },
+   {
+    "level": 11,
+    "resolution": 76.43702828507324,
+    "scale": 288895.277144
+   },
+   {
+    "level": 12,
+    "resolution": 38.21851414253662,
+    "scale": 144447.638572
+   },
+   {
+    "level": 13,
+    "resolution": 19.10925707126831,
+    "scale": 72223.819286
+   },
+   {
+    "level": 14,
+    "resolution": 9.554628535634155,
+    "scale": 36111.909643
+   },
+   {
+    "level": 15,
+    "resolution": 4.77731426794937,
+    "scale": 18055.954822
+   },
+   {
+    "level": 16,
+    "resolution": 2.388657133974685,
+    "scale": 9027.977411
+   },
+   {
+    "level": 17,
+    "resolution": 1.1943285668550503,
+    "scale": 4513.988705
+   },
+   {
+    "level": 18,
+    "resolution": 0.5971642835598172,
+    "scale": 2256.994353
+   },
+   {
+    "level": 19,
+    "resolution": 0.29858214164761665,
+    "scale": 1128.497176
+   },
+   {
+    "level": 20,
+    "resolution": 0.14929107082380833,
+    "scale": 564.248588
+   }
+  ]
+ },
+ "initialExtent": {
+  "xmin": -1.4136915518922856E7,
+  "ymin": 5381240.260553128,
+  "xmax": -1.2912792835080056E7,
+  "ymax": 6592724.50960699,
+  "spatialReference": {
+   "cs": "pcs",
+   "wkid": 102100
+  }
+ },
+ "fullExtent": {
+  "xmin": -1.4122964000000002E7,
+  "ymin": 5678101.000000002,
+  "xmax": -1.2995352999999998E7,
+  "ymax": 6348223,
+  "spatialReference": {
+   "cs": "pcs",
+   "wkid": 102100
+  }
+ },
+ "minScale": 5.91657527591555E8,
+ "maxScale": 564.248588,
+ "units": "esriMeters",
+ "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+ "documentInfo": {
+  "Title": "King County 2015 Aerial Imagery Basemap",
+  "Author": "King County GIS Center",
+  "Comments": "This natural-color aerial imagery basemap is a mosaic of imagery at two resolutions which covers all of King County and portions of adjacent counties. In general, resolution is three inches per pixel for urbanized (western) King County and Southwestern Snohomish County and nine inches per pixel in rural (eastern) King County. The U.S. Highway 2 corridor in northeastern King County, and the Alpental area near Snoqualmie Pass are also represented by three-inch-resolution imagery. The imagery in the mosaic was captured by Pictometry International Corp. and licensed to King County for use by cities and other governmental entities only. The imagery was captured from mid-February 2015 through late June 2015.",
+  "Subject": "King County aerial imagery basemap featuring imagery captured in 2015",
+  "Category": "",
+  "AntialiasingMode": "None",
+  "TextAntialiasingMode": "Force",
+  "Keywords": "Basemaps,King County,aerial photos,imagery,orthophoto"
+ },
+ "capabilities": "Map,Query,Data",
+ "supportedQueryFormats": "JSON, geoJSON",
+ "exportTilesAllowed": false,
+ "datumTransformations": [
+  {
+   "geoTransforms": [
+    {
+     "wkid": 108001,
+     "latestWkid": 1241,
+     "transformForward": true,
+     "name": "NAD_1927_To_NAD_1983_NADCON"
+    }
+   ]
+  },
+  {
+   "geoTransforms": [
+    {
+     "wkid": 108001,
+     "latestWkid": 1241,
+     "transformForward": false,
+     "name": "NAD_1927_To_NAD_1983_NADCON"
+    }
+   ]
+  },
+  {
+   "geoTransforms": [
+    {
+     "wkid": 1580,
+     "latestWkid": 1580,
+     "transformForward": true,
+     "name": "NAD_1983_HARN_To_WGS_1984"
+    }
+   ]
+  },
+  {
+   "geoTransforms": [
+    {
+     "wkid": 1580,
+     "latestWkid": 1580,
+     "transformForward": false,
+     "name": "NAD_1983_HARN_To_WGS_1984"
+    }
+   ]
+  }
+ ],
+ "supportsDatumTransformation": true,
+ "maxRecordCount": 1000,
+ "maxImageHeight": 4096,
+ "maxImageWidth": 4096,
+ "supportedExtensions": ""
+}

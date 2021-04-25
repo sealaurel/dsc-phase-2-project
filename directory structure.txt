@@ -1,0 +1,86 @@
+
+C:.
+|   .canvas
+|   .gitignore
+|   LICENSE.md
+|   project2_OSEMN_plus_mvp_final.ipynb
+|   project2_OSEMN_plus_mvp_final_backup.ipynb
+|   README.md
+|   
++---.ipynb_checkpoints
+|       backup_12
+|       project2_OSEMN_plus_mvp_final-checkpoint.ipynb
+|       project2_OSEMN_plus_mvp_final_backup-checkpoint.ipynb
+|       
++---data
+|       column_names.md
+|       KCMap.geojson
+|       kc_house_data.csv
+|       wa_washington_zip_codes_geo.min.json
+|       
+\---images
+    |   3D_living_bath_grade.png
+    |   box_plot_basement.png
+    |   box_plot_condition.png
+    |   box_plot_month.png
+    |   box_plot_renovation.png
+    |   box_plot_view.png
+    |   box_plot_waterfront.png
+    |   correlation_price_bathrooms.png
+    |   correlation_price_bedrooms.png
+    |   correlation_price_distance.png
+    |   correlation_price_livingspace.png
+    |   correlation_price_livingspace_renovated.png
+    |   diamond_box1.png
+    |   formula.png
+    |   heatmap1.png
+    |   heatmap2.png
+    |   heatmap3.png
+    |   histograms_original_vars.png
+    |   jointplot_bathrooms.png
+    |   jointplot_distance.png
+    |   jointplot_floors.png
+    |   jointplot_grade.png
+    |   jointplot_sqft_above.png
+    |   jointplot_sqft_living.png
+    |   jointplot_sqft_living15.png
+    |   jointplot_sqft_lot15.png
+    |   KDE_dist1.png
+    |   KDE_dist2.png
+    |   KDE_dist3.png
+    |   model1_reg_exog1.png
+    |   model1_reg_exog2.png
+    |   model1_results.png
+    |   model2_results.png
+    |   model3_1_results.png
+    |   model3_2_results.png
+    |   model4_1_results.png
+    |   model4_2_results.png
+    |   modelfinal_reg_exog1.png
+    |   modelfinal_reg_exog2.png
+    |   model_final_results.png
+    |   price_log_kde_distr.png
+    |   price_raw_kde_distr.png
+    |   price_sqrt_kde_distr.png
+    |   properties_map_plotly.png
+    |   property_maps.jpg
+    |   property_maps.png
+    |   python-math-image-exercise-1.svg
+    |   qqplot_baseline.png
+    |   qqplot_model1.png
+    |   qqplot_model3_1.png
+    |   qqplot_model3_2.png
+    |   qqplot_model4_1.png
+    |   qqplot_model4_2.png
+    |   qqplot_model_final.png
+    |   regplot_all_variables.png
+    |   top_image0.jpg
+    |   VIF1.png
+    |   VIF2.png
+    |   zip_average_living_space.png
+    |   zip_average_lot_size.png
+    |   zip_average_price.png
+    |   zip_average_view.png
+    |   zip_average_year_built.png
+    |   
+    \---.ipynb_checkpoints
